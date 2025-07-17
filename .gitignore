@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Django DB and settings
+db.sqlite3
+
+# Virtual environment
+env/
+venv/
+
+# Editor stuff
+.vscode/
+.idea/
+
+# Logs
+*.log
